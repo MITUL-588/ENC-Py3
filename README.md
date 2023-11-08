@@ -13,4 +13,4 @@ ls
 python ENCRYPT.py</b>
 
 
-<img src="https://github.com/MITUL-588/ENC-Py3/blob/main/IMG_20231108_151520.jpg" alt="alt text" width="300" height="350"></a>
+<img src="https://github.com/MITUL-588/ENC-Py3/blob/main/IMG_20231108_151520.jpg" alt="alt text" width="320" height="350"></a>
